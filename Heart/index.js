@@ -16,6 +16,7 @@ bodyElement.addEventListener("mousemove",(event)=>{
         setTimeout(() => {
                 spanEl.remove();
             }, 700);
+        
 
 });
 
