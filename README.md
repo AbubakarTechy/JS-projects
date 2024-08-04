@@ -1,2 +1,2 @@
 # JS-projects
-These are my fronted projects.
+These are my fronted JS projects.
