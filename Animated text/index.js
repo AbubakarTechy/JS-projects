@@ -1,7 +1,6 @@
 const BodyHun=document.getElementById("animated-text");
 const text=["I am web Dev" , "I am Freelancer", "I am Tutor", "I am Youtuber" ];
 let index=0;
-
 function textChange(){
     BodyHun.textContent=text[index];
     index++;
