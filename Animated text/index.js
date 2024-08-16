@@ -9,5 +9,4 @@ function textChange(){
     }
     setTimeout(textChange,1000);
 }
-
 textChange();
