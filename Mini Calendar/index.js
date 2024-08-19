@@ -8,7 +8,6 @@ const month=date.getMonth()
 monthName.innerText=date.toLocaleString("eng", {
     month:"long"
 })
-
 dayName.innerText=date.toLocaleString("eng",{
     weekday:"long"
 })
