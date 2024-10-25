@@ -9,7 +9,6 @@ bodyElement.addEventListener("mousemove",(event)=>{
         const size=Math.random()*100;
         spanEl.style.width=size +"px";
         spanEl.style.height= size+"px";
-
         bodyElement.appendChild(spanEl);
 
         setTimeout(() => {
